@@ -1,0 +1,21 @@
+{
+  "BigQuery Schema": [
+    {      "name": "property_id",      "type": "INTEGER"    },
+    {      "name": "city",      "type": "STRING"    },
+    {      "name": "postal_code",      "type": "INTEGER"    },
+    {      "name": "state_code",      "type": "STRING"    },
+    {      "name": "state",      "type": "STRING"    },
+    {      "name": "country",      "type": "STRING"    },
+    {      "name": "latitude",      "type": "FLOAT"    },
+    {      "name": "longitude",      "type": "FLOAT"    },
+    {      "name": "beds",      "type": "FLOAT"    },
+    {      "name": "baths",      "type": "FLOAT"    },
+    {      "name": "sqft",      "type": "FLOAT"    },
+    {      "name": "property_type",      "type": "STRING"    },
+    {      "name": "list_price",      "type": "FLOAT"    },
+    {      "name": "list_date",      "type": "STRING"    },
+    {      "name": "last_sold_date",      "type": "STRING"    },
+    {      "name": "last_sold_price",      "type": "FLOAT"    },
+    {      "name": "create_on",      "type": "STRING"    }
+  ]
+}
